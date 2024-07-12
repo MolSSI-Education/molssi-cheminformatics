@@ -1,0 +1,15 @@
+name: acs-workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - rdkit
+  - seaborn
+  - numpy
+  - jupyterlab
+  - notebook
+  - scikit-learn
+  - nglview
+  - qcarchive/label/next::qcportal
