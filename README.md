@@ -39,7 +39,7 @@ An environment.yml file is included that you can use to create a conda environme
 |-----------------------|-----------------------------------------------------|-------------------------------------------------|
 | 9:00 AM - 10:30 AM    | Python Data Science Libraries: Pandas and Seaborn   | `05_pandas_seaborn`
 | 10:30 AM - 10:45 AM   | Break                                               | 
-| 10:45 AM - 11:45 AM   | Model Fitting with SciKit Learn: Part 1             |
+| 10:45 AM - 11:45 AM   | Model Fitting with SciKit Learn: Part 1             | `06_sklearn_fitting_1`
 | 11:45 AM - 1:00 PM    | Lunch                                               |
 | 1:00 PM - 3:00 PM     | Model Fitting with SciKit Learn: Part 2             |
 | 3:00 PM - 3:30 PM     | Snack Break                                         |
