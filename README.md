@@ -23,7 +23,7 @@ An environment.yml file is included that you can use to create a conda environme
 
 | Time                  | Topic                                               | Notebook(s)                                     |
 |-----------------------|-----------------------------------------------------|-------------------------------------------------|
-| 9:30 AM - 10:45 AM    | Introduction to molecular representations           | `00_python_basics`, `01_molecule_representation`
+| 9:30 AM - 10:45 AM    | Introduction to molecular representations           | `01_molecule_representation`
 | 10:45 AM - 11:00 AM   | Break                                               |  
 | 11:00 AM - 12:00 PM   | Introduction to RDKit molecules                     | `02_rdkit_intro`
 | 12:00 PM - 1:30 PM    | Lunch                                               |
