@@ -4,7 +4,6 @@
 
 This repository contains notebooks presentd at the MERCURY 2024 conference.
 
-
 ## Running the notebooks
 
 There are many options to run these notebooks. We recommend using JupyterLab instead of Jupyter notebook.
@@ -41,7 +40,7 @@ An environment.yml file is included that you can use to create a conda environme
 | 10:30 AM - 10:45 AM   | Break                                               | 
 | 10:45 AM - 11:45 AM   | Model Fitting with SciKit Learn: Part 1             | `06_sklearn_fitting_1`
 | 11:45 AM - 1:00 PM    | Lunch                                               |
-| 1:00 PM - 3:00 PM     | Model Fitting with SciKit Learn: Part 2             |
+| 1:00 PM - 3:00 PM     | Model Fitting with SciKit Learn: Part 2             | `07_ESOL_fitting`
 | 3:00 PM - 3:30 PM     | Snack Break                                         |
 | 3:30 PM - 3:45 PM     | Closing                                             |
 
