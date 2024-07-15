@@ -12,4 +12,3 @@ dependencies:
   - notebook
   - scikit-learn
   - nglview
-  - qcarchive/label/next::qcportal
